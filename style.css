@@ -58,7 +58,7 @@ img {
 
 .preloader {
 	overflow: hidden;
-	opacity: 0;
+	opacity: 1;
 }
 
 .preloader__background {
